@@ -7,8 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d40da4db-c875-48ba-aeea-daf22358c985" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/Problema12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/Problema12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Problema12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problema12.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
