@@ -10,31 +10,45 @@ public class ExercitiuClasa4 {
      Create a method that prints the letters and the numbers of apparitions in the read text.
      */
     public static void main(String[] args) {
-        Scanner x = new Scanner (System.in);
-        String prop = x.next ();
-        System.out.println (prop);
-        char[] litere = new char[prop.length ()];
-        int[] count = new int[prop.length ()];
-        for (int i = 0; i < prop.length (); i++) {
+        Scanner firstScanner = new Scanner(System.in);
+        String propozitie = firstScanner.nextLine();
+        System.out.println(propozitie);
+        char[] litere = new char[propozitie.length()];
+        int[] count = new int[propozitie.length()];
+        for (int i = 0; i < propozitie.length(); i++) {
+            if (propozitie.charAt(i) == ' ') {
+                continue;
+            }
+            boolean isdublicate = false;
             for (int j = 0; j <= i; j++) {
-                if (litere[j] == prop.charAt (i)) {
+                if (litere[j] == propozitie.charAt(i)) {
                     count[j]++;
-                } else {
-                    litere[i] = prop.charAt (i);
-                }            }
-        }
-        afisare (litere);
-        afisare (count);
+                    isdublicate = true;
+                    break;
+                }
+            }
+            if (isdublicate == false) {
+                for (int j = 0; j < litere.length; j++) {
+                    if (litere[j] == 0) {
+                        litere[j] = propozitie.charAt(i);
+                        count[j] = 1;
+                        break;
+                    }
+                }            }        }        afisare(litere);
+        afisare(count);
     }    private static void afisare(char[] array) {
         for (int i = 0; i < array.length; i++) {
-            System.out.println (array[i]);
+            System.out.print(array[i] + " ");
         }
-        System.out.println ();
+        System.out.println();
     }    private static void afisare(int[] array) {
         for (int i = 0; i < array.length; i++) {
-            System.out.println (array[i]);
+            if(array[i]==0){
+                break;
+            }
+            System.out.print(array[i] + " ");
         }
-        System.out.println ();
+        System.out.println();
     }
 }
 
