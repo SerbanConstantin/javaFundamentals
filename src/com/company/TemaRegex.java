@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class Test8 {
+public class TemaRegex {
 
 
             /*  Program to find letters, numbers, words and sentences in a given text.
