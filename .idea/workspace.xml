@@ -6,11 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d40da4db-c875-48ba-aeea-daf22358c985" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CelMaiMareDivizorComun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/Problema12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/Problema12.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/Test8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/test7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TemaRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Primul proiect 27,10,19/com/company/test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Problema12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Problema12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/test8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/varargs/test.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +60,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringExemple">
-    <configuration name="StringExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.StringExemple" />
+  <component name="RunManager" selected="Application.Car">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Car" />
       <module name="Primul proiect 27,10,19" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.test2" />
+    <configuration name="CelMaiMareDivizorComun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CelMaiMareDivizorComun" />
       <module name="Primul proiect 27,10,19" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.test4" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Factorial" />
       <module name="Primul proiect 27,10,19" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.test5" />
+    <configuration name="TemaRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TemaRegex" />
       <module name="Primul proiect 27,10,19" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.test6" />
+    <configuration name="testTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.testTest" />
       <module name="Primul proiect 27,10,19" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringExemple" />
-        <item itemvalue="Application.test6" />
-        <item itemvalue="Application.test5" />
-        <item itemvalue="Application.test4" />
-        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.TemaRegex" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.testTest" />
+        <item itemvalue="Application.CelMaiMareDivizorComun" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +147,21 @@
       <option name="presentableId" value="Default" />
       <updated>1572167967482</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1575652162488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575652162488</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1575652209267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575652209267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

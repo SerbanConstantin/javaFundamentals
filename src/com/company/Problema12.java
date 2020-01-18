@@ -111,6 +111,7 @@ public class Problema12 {
         System.out.println(largestNumber(extractElement(array, largestNumber(array))));
         // extrage cel mai mare el. din array...
     }
+
     public static void Punctul6(Scanner scan) {
         //Write a Java program to find the number of even and odd integers in a given array of integers
         System.out.println("Dati dimensiune: ");
@@ -212,9 +213,11 @@ public class Problema12 {
         }
         return even;
     }
+
     public static int countOdd(int[] array) {
         return array.length - countEven(array);
 
     }
+
 
 }

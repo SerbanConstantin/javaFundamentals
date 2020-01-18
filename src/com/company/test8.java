@@ -54,6 +54,7 @@ public class test8 {
             System.out.println("Good day.");
         } else {
             System.out.println("Good evening.");// Outputs "Good evening."
+
         }
         System.out.println();
         int timpi = 20;
