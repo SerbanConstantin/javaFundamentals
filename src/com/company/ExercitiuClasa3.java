@@ -6,7 +6,7 @@ import javax.sound.midi.Soundbank;
 // Create one method that initializes the array and one method that prints the contents of the array.
 // Call them in main.
 
-class Exercitiul3 {
+class Exercitiul3Array {
     public static void main(String[] args) {
         int[] array;
         array = initArray(100);

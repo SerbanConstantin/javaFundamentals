@@ -1,6 +1,5 @@
 package com.company;
 
-import com.sun.deploy.net.cookie.GenericCookieHandler;
 
 import java.util.Scanner;
 
@@ -12,7 +11,6 @@ public class ArrayExemple {
         for (int i = 0; i < arrayOfstrings.length; i++) {
             System.out.print("arrayOfStrings[" + i + "]=");
             arrayOfstrings[i] = in.nextLine();
-            System.out.println(" -- ");
         }
 
         /**
@@ -22,7 +20,7 @@ public class ArrayExemple {
 
         System.out.print("(");
         for (String ss : arrayOfstrings) {
-            if (ss==(arrayOfstrings[4])) {
+            if (ss == (arrayOfstrings[4])) {
                 System.out.print(ss);
             } else {
                 System.out.print(ss + ",");

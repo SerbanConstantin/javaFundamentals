@@ -9,6 +9,7 @@ public class IfExemple {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        System.out.println("Input");
         String ss = in.nextLine();
         System.out.println("You entered string " + ss);
 

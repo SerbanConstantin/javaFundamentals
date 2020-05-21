@@ -12,15 +12,7 @@ public class Camara {
         System.out.println(Borcan.totalBorcane--);//2
         System.out.println(borcan1.totalBorcane);//1
 
-
         System.out.println(borcan1.equals(borcan2));
-
-
-
-
-
-
-
 
     }
 }
